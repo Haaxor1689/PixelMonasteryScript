@@ -2,7 +2,7 @@
 
 ![Font name](images/PreviewFontName.png)
 
-Designed by [Maroš Beťko](https://haaxor1689.github.io/) in 2015.
+Designed by [Maroš Beťko](https://haaxor1689.github.io/) in 2018.
 
 ## Preview
 
